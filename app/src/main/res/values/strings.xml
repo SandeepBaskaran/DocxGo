@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DocxGo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="user_name">Username</string>\
+    <string name="mail_id">mail_me@email.com</string>
+    <string name="designation">Designation</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,4 @@
+#Wed Mar 21 20:29:08 IST 2018
+base.0=/home/sandeep/AndroidStudioProjects/DocxGo/app/build/intermediates/transforms/dexMerger/debug/81
+path.0=classes.dex
+renamed.0=classes.dex
